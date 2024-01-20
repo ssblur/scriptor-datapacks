@@ -1,0 +1,12 @@
+{
+  "generator": "scriptor:community",
+  "bindings": [
+    {
+      "word": "other:and",
+      "parameters": {
+        "minTokens": 2,
+        "maxTokens": 2
+      }
+    }
+  ]
+}
