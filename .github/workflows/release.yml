@@ -13,11 +13,15 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: Release
-          path: scriptor_*.zip
+          path: 
+            - scriptor_*.zip
+            - scriptor_*.jar
       - name: Release
         uses: "marvinpinto/action-automatic-releases@latest"
         with:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
           automatic_release_tag: "latest"
           prerelease: false
-          files: scriptor_*.zip
+          files: 
+            - scriptor_*.zip
+            - scriptor_*.jar

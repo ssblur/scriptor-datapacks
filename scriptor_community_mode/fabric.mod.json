@@ -1,0 +1,26 @@
+{
+    "schemaVersion": 1,
+    "id": "scriptorcommunity",
+    "version": "1",
+    "name": "Scriptor: Community Mode",
+    "description": "Community Mode for Scriptor Magicae",
+    "authors": [
+      "SSBlur"
+    ],
+    "contact": {
+      "homepage": "https://ssblur.com/mods/scriptor",
+      "sources": "https://github.com/ssblur/scriptor-datapacks"
+    },
+    "license": "CC0",
+    "icon": "pack.png",
+    "environment": "*",
+    "entrypoints": {
+      "main": []
+    },
+    "depends": {
+      "fabric": "*",
+      "minecraft": ">=1.20.4",
+      "architectury": ">=6.2.43"
+    },
+    "mixins": []
+  }
