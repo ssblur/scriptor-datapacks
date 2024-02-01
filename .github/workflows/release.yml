@@ -13,9 +13,7 @@ jobs:
         uses: actions/upload-artifact@v2
         with:
           name: Release
-          path: 
-            - scriptor_*.zip
-            - scriptor_*.jar
+          path: scriptor_*.*
       - name: Release
         uses: "marvinpinto/action-automatic-releases@latest"
         with:
