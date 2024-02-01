@@ -1,0 +1,14 @@
+modLoader = "javafml"
+loaderVersion = "[43,)"
+#issueTrackerURL = ""
+license = "WTFPL"
+
+[[mods]]
+modId = "scriptorresource"
+version = "1"
+displayName = "Scriptor Community Mode"
+authors = "SSBlur"
+description = '''
+Enables Community Mode for Scriptor Magicae.
+'''
+logoFile = "pack.png"
