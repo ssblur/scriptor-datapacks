@@ -1,0 +1,12 @@
+{
+  "generator": "scriptor:mixed_groups",
+  "bindings": [
+    {
+      "word": "descriptor:color.demo_pack.sample_color",
+      "parameters": {
+        "minTokens": 2,
+        "maxTokens": 2
+      }
+    }
+  ]
+}

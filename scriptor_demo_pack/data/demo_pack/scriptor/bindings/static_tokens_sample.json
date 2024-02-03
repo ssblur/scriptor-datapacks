@@ -1,0 +1,11 @@
+{
+  "generator": "scriptor:static_generator",
+  "bindings": [
+    {
+      "word": "action:action.demo_pack.sample_word",
+      "parameters": {
+        "token": "sample"
+      }
+    }
+  ]
+}

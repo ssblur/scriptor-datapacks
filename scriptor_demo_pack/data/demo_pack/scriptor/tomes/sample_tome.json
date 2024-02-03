@@ -1,0 +1,16 @@
+{
+  "name": "Sample Tome",
+  "author": "SSBlur",
+  "tier": 1,
+  "spell": {
+    "subject": "projectile",
+    "spells": [
+      {
+        "action": "action.demo_pack.sample_word",
+        "descriptors": [
+          "red"
+        ]
+      }
+    ]
+  }
+}
