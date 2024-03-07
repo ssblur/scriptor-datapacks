@@ -20,7 +20,8 @@
     "depends": {
       "fabric": "*",
       "minecraft": ">=1.20.4",
-      "architectury": ">=6.2.43"
+      "architectury": ">=6.2.43",
+      "scriptor": "*"
     },
     "mixins": []
   }

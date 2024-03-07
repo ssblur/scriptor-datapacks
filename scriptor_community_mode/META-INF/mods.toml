@@ -12,3 +12,9 @@ description = '''
 Enables Community Mode for Scriptor Magicae.
 '''
 logoFile = "pack.png"
+
+[[dependencies.scriptorresources]]
+modId = "scriptor"
+mandatory = true
+ordering = "AFTER"
+side = "SERVER"
