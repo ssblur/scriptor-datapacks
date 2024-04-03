@@ -1,0 +1,11 @@
+{
+  "generator": "scriptor:debug",
+  "bindings": [
+    {
+      "word": "other:and"
+    },
+    {
+      "word": "descriptor:color.scriptor.enby"
+    }
+  ]
+}

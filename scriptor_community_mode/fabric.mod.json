@@ -1,7 +1,7 @@
 {
     "schemaVersion": 1,
     "id": "scriptorcommunity",
-    "version": "1",
+    "version": "2",
     "name": "Scriptor: Community Mode",
     "description": "Community Mode for Scriptor Magicae",
     "authors": [

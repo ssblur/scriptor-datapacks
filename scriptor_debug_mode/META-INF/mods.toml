@@ -5,7 +5,7 @@ license = "WTFPL"
 
 [[mods]]
 modId = "scriptorresource"
-version = "1"
+version = "2"
 displayName = "Scriptor Debug Mode"
 authors = "SSBlur"
 description = '''
